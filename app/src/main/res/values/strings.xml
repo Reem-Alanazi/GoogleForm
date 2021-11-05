@@ -1,6 +1,17 @@
 <resources>
-    <string name="app_name">GoogleForm</string>
+
+    <string name="app_name">Sign Up</string>
+    <string name="title">Create your Google Account</string>
     <string name="firstName">First Name</string>
-    <string name="Password">Password</string>
+    <string name="lastName">Last Name</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm</string>
+    <string name="helper" formatted="false">You can use letters, number &amp; periods</string>
+    <string name="link">Use my current email address instead</string>
+    <string name="note" formatted="false">Use 8 or more characters with a mix of letters, number &amp; symbols</string>
+    <string name="show">Show Password</string>
+    <string name="button">Next</string>
+    <string name="sign">Sign in instead</string>
 
 </resources>
